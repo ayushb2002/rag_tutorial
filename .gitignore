@@ -1,0 +1,11 @@
+# Python Environment 
+venv/
+env/
+# Environment Variables
+.env
+# Vendored libraries
+vendor/
+# Chroma DB stores
+db/
+# Metadata files
+*.json
